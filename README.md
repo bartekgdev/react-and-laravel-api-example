@@ -51,13 +51,13 @@ Follow these steps to set up the project:
 ## Running the Application
 
 1. **Start Laravel Server:**  
-   In the `backend` directory, start the Laravel development server:
+   In the `my-laravel-api` directory, start the Laravel development server:
    ```bash
    php artisan serve
    ```
 
 2. **Start React Development Server:**  
-   In the `frontend` directory, start the React development server:
+   In the `my-react-app` directory, start the React development server:
    ```bash
    npm start
    ```
@@ -101,7 +101,3 @@ If you'd like to contribute to this project, feel free to fork the repository, c
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you need additional adjustments!
